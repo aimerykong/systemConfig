@@ -28,3 +28,12 @@
 ```conda install -c pytorch magma-cuda80 # or magma-cuda90 if CUDA 9```
 
 
+## Uninstall Pytorch
+
+Uninstall pytorch, cmd ```conda uninstall pytorch torchvision```, if installing it using                
+```conda install pytorch torchvision cuda80 -c pytorch```
+
+
+
+Shu Kong @ UCI
+Sep. 2018
