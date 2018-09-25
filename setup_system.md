@@ -11,6 +11,9 @@ Copy key to the server ```ssh-copy-id not-marco@server```
 Set ```StrictHostKeyChecking``` no in your /etc/ssh/ssh_config file
 
 
+##### assign server name instead of ip
+```sudo vim /etc/hosts```, add line ```128.90.111.135 myubuntu```
+
 
 
 ### Leaving Blank
