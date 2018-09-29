@@ -16,13 +16,11 @@ Set ```StrictHostKeyChecking``` no in your /etc/ssh/ssh_config file
 
 
 ##### latex
-```sudo apt-get install texlive-latex-base```
+```sudo apt-get install texlive-full```
 
 ```sudo apt-get install texlive-fonts-recommended```
 
 ```sudo apt-get install texlive-fonts-extra```
-
-```sudo apt-get install texlive-latex-extra```
 
 
 
