@@ -15,6 +15,16 @@ Set ```StrictHostKeyChecking``` no in your /etc/ssh/ssh_config file
 ```sudo vim /etc/hosts```, add line ```128.90.111.135 myubuntu```
 
 
+##### latex
+```sudo apt-get install texlive-latex-base```
+
+```sudo apt-get install texlive-fonts-recommended```
+
+```sudo apt-get install texlive-fonts-extra```
+
+```sudo apt-get install texlive-latex-extra```
+
+
 
 ### Leaving Blank
 
