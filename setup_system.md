@@ -22,6 +22,12 @@ Set ```StrictHostKeyChecking``` no in your /etc/ssh/ssh_config file
 
 ```sudo apt-get install texlive-fonts-extra```
 
+##### resize images
+```sudo apt-get install imagemagick```
+
+```mogrify -resize 50% *.png   # keep image aspect ratio```
+
+
 
 
 ### Leaving Blank
