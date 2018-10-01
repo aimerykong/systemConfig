@@ -27,7 +27,7 @@ Set ```StrictHostKeyChecking``` no in your /etc/ssh/ssh_config file
 
 ```mogrify -resize 50% *.png   # keep image aspect ratio```
 
-
+```mogrify -resize 320x240! *.png``` Don't keep aspect ratio.
 
 
 ### Leaving Blank
