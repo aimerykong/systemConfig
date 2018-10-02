@@ -30,6 +30,10 @@ Set ```StrictHostKeyChecking``` no in your /etc/ssh/ssh_config file
 ```mogrify -resize 320x240! *.png``` Don't keep aspect ratio.
 
 
+##### convert images from pgm to png in the current folder
+```for i in $(ls *.pgm); do convert "$i" $(basename $i .pgm).png; done```
+
+
 ### Leaving Blank
 
 Shu Kong @ UCI
