@@ -4,7 +4,12 @@
 - alias la='ls -A'
 - alias l='ls -CF'
 
-
+# Anaconda
+- download https://www.anaconda.com/distribution/
+- cd ~/download
+- wget xxxxx.sh
+- chmod 777 xxxxx.sh
+- ./xxxx.sh
 
 
 
