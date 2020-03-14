@@ -23,6 +23,9 @@
 Uninstall pytorch, cmd ```conda uninstall pytorch torchvision```, if installing it using                
 ```conda install pytorch torchvision cuda80 -c pytorch```
 
+# cv2
+
+
 
 
 Shu Kong @ CMU
