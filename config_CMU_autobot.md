@@ -1,8 +1,11 @@
 # vim ~/.bashrc
-- # some more ls aliases
+- add the following shortcut keys for personal use
 - alias ll='ls -alF'
 - alias la='ls -A'
 - alias l='ls -CF'
+
+
+
 
 
 
