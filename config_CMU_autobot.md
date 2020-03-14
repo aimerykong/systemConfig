@@ -24,7 +24,7 @@ Uninstall pytorch, cmd ```conda uninstall pytorch torchvision```, if installing 
 ```conda install pytorch torchvision cuda80 -c pytorch```
 
 # cv2
-
+- https://pypi.org/project/opencv-python/
 
 
 
